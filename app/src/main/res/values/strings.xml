@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PixArgb</string>
+
+    <string-array name="optionname">
+
+
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Filters</item>
+        <item>Saturation</item>
+        <item>Colour Add</item>
+        <item>Brush</item>
+        <item>Emojis</item>
+        <item>Basic tune</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="clarendon">Clarendon</string>
+    <string name="oldman">OldMan</string>
+    <string name="haan">Haan</string>
+    <string name="april">April</string>
+    <string name="mars">Mars</string>
+    <string name="rise">Rise</string>
+    <string name="audrey">Audrey</string>
+    <string name="metropolis">Metropolis</string>
+    <string name="cruz">Cruz</string>
+    <string name="adele">Adele</string>
+    <string name="amazon">Amazon</string>
+    <string name="starlit">Starlit</string>
+    <string name="bluemess">BlueMess</string>
+    <string name="struck">Struck</string>
+    <string name="whisper">Whisper</string>
+    <string name="lime">Lime</string>
+
+
+    <string name="Brightness">Brightness</string>
+    <string name="Contrast">Contrast</string>
+    <string name="Filters">Filters</string>
+    <string name="Saturation">Saturation</string>
+    <string name="Colour_Add">Colour_Add</string>
+    <string name="Brush">Brush</string>
+    <string name="Emojis">Emojis</string>
+    <string name="Basic_tune">Basic_tune</string>
+
+
+</resources>

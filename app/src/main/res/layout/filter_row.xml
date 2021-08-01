@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="35pt"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="2pt"
+    android:layout_marginHorizontal="2pt"
+    android:padding="0dp"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Moyukh"
+    android:layout_gravity="center"
+    android:id="@+id/filter_name"
+    android:textColor="@android:color/black"
+    android:layout_marginBottom="5dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:src="@drawable/dog"
+        android:id="@+id/filer_image"
+        android:layout_weight="5"
+        android:paddingBottom="0dp"/>
+
+
+
+</LinearLayout>
